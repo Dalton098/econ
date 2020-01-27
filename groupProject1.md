@@ -1,0 +1,8 @@
+- Language Used (females) -> person or physical rather than professional
+- Post by women are 50% less academic
+- Increased by 24-77% about women
+- Macro, supervisor, advisor, -> male words
+- Water cool talk
+- “women don’t belong in STEM fields”
+- Academic focused conversation turns toward physical
+- “anonymity” on the forum causes peoples true beliefs to come out
