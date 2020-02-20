@@ -1,0 +1,33 @@
+- NGDP
+  - Quantity * Price, add up for all goods/services
+  - Growth Rate: $(\frac{y2NGDP - y1NGDP}{y1NGDP}) * 100$
+- RGDP
+  - Use 1 year’s prices as basis for prices for all years
+  - Quantity * Price, add up for all goods/services with the basis’s years price
+  - Growth Rate: $(\frac{y2RGDP - y1RGDP}{y1RGDP}) * 100$
+- GDP Deflator
+  - Yr.1 GDP Deflator is always 100%
+  - GDP Deflator: $(\frac{NGDP}{RGDP})*100$
+- Inflation Rate
+  - $\frac{GDPDeflatorY2 - GDPDeflatorY1}{GDPDeflatorY1}$
+  - Subtract 100% from the final because indexed to 100 (ie. 104% -> 4%)
+- Okun’s Law (Both equations)
+  - $Y = \overline{Y}$ and $U = \overline{U}$ $\implies$ At $\implies$ Stable Prices
+  - $Y < \overline{Y}$ and $U > \overline{U}$ $\implies$ Below Output, Higher Unemployment $\implies$ Disinflationary
+  - $Y > \overline{Y}$ and $U < \overline{U}$ $\implies$ Above Output, Lower Unemployment $\implies$ Inflationary
+  - Dollar Value: $\frac{\overline{Y} - Y}{\overline{Y}} = 2(U - \overline{U})$
+  - Growth Rate: $\frac{\Delta Y}{Y} = 3 - 2 \Delta U$
+- Unemployment/Labor Force
+  - $U = \frac{LF - N}{LF}$
+  - $LFPR = \frac{LF}{LF + NLF}$
+  - $EPOP$ = $\frac{N}{LF+NLF}$
+  - N = Employed
+  - LF = Labor Force = Employed + Unemployed
+- Output Gap
+  - Calculate $\overline{Y}$ and $Y$ for each year. To get gap/difference do: $\overline{Y} - Y$ to get difference.
+  - To get percent: $\frac{\overline{Y} - Y}{\overline{Y}} *100$
+- Real Interest Rate
+  - $r = i - \pi$
+  - r = real interest rate
+  - i = nominal interest rate
+  - $\pi$ = inflation rate
