@@ -1,0 +1,34 @@
+
+Deciding whether this is the most effective tool, however, is a good deal more complicated because minimum wages 
+address low-wage work, whereas poverty is based on family income. One complication is research pointing to employment
+ declines from minimum wage increases (see Neumark 2015), which means raising wages for some people must be weighed
+ against potential job losses for others. In this case, whether a higher minimum wage on net helps poor and
+ low-income families depends on the specific pattern of employment effects for different family types.
+(Neumark , 2015)
+
+First, 57% of poor families with heads of household ages 18–64 have no workers, based on 2014 data from the
+Current Population Survey (CPS). Second, some workers are poor not because of low wages but because of low hours;
+for example, CPS data show 46% of poor workers have hourly wages above $10.10, and 36% have hourly wages above $12.
+And third, many low-wage workers, such as teens, are not in poor families (Lundstrom forthcoming).
+(Neumark , 2015)
+
+the general conclusion from this literature is that there is no statistically significant relationship between
+raising the minimum wage and reducing poverty
+(Neumark , 2015)
+
+
+
+do increased wages increase productivity?
+	-higher wages increase QOL which means the workers are in a better state of mind, happier, can enjoy hobbies
+	less stressed, etc so in turn they are more productive. So not necessarily that higher wages inherently
+	increase productivity but rather a wage that allows a person to be able to pay for their needs and have
+	enough left over to enrich their leisure time would increase productivity. Granted, this correlation
+	does not hold for all periods of time (see the graph around 1980 where there is a huge drop in wage growth
+	but productivity does not take nearly the same hit)
+	-does not necessarily need to be a wage increase directly, rather it could come in the form of some
+	government subsidy that helps support low income individuals and would still have a similar effect
+	-if minimum wage was increased businesses would most likely lay off inefficient workers and instead invest
+	in increasing the capital of the business and as a result this would in increase the general productivity of
+	each worker
+
+

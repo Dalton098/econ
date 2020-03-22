@@ -55,7 +55,7 @@ Why does labor demand slope down?
 
 - skilled workers leave as wage goes down
 - Diminishing marginal productivity
-  - As you increase N (labor) the MPN goes up but then goes down after a point (parabola)
+  - As you increase N (labor) the MPN goes down 
 
 As wage goes up labor goes up -> worker wants to get paid well
 
